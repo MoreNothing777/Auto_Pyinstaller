@@ -6,7 +6,7 @@ Incluye opciones de configuración, selección de bibliotecas ocultas, modo de e
 <img width="749" height="959" alt="image" src="https://github.com/user-attachments/assets/aa284d5d-cd3c-4aae-a97c-58e386220ec7" />
 
 ## 🚀 Características principales
-· ✅ Interfaz gráfica amigable y responsiva (Tkinter).<br>
+<li>✅ Interfaz gráfica amigable y responsiva (Tkinter).<\li><br>
 · 📂 Permite seleccionar el archivo .py mediante un explorador de archivos.<br>
 · 📁 Elección de carpeta de destino para el ejecutable.<br>
 · ⚙️ Compatibilidad con los modos de PyInstaller:<br>
