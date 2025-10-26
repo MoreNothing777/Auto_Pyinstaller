@@ -9,16 +9,16 @@ Incluye opciones de configuración, selección de bibliotecas ocultas, modo de e
 
 # 🚀 Características principales
 
-· ✅ Interfaz gráfica amigable y responsiva (Tkinter).
-· 📂 Permite seleccionar el archivo .py mediante un explorador de archivos.
-· 📁 Elección de carpeta de destino para el ejecutable.
-· ⚙️ Compatibilidad con los modos de PyInstaller:
-  · --onefile: genera un único ejecutable.
-  · --onefolder: genera una carpeta con el ejecutable y dependencias.
-· 🧩 Posibilidad de agregar bibliotecas ocultas (--hidden-import).
-· 🧵 Ejecución del proceso en un hilo independiente (sin bloquear la interfaz).
-· 📜 Monitoreo en tiempo real del progreso del proceso de compilación.
-· 💬 Área de log en vivo para salida del proceso y errores.
+· ✅ Interfaz gráfica amigable y responsiva (Tkinter).<br>
+· 📂 Permite seleccionar el archivo .py mediante un explorador de archivos.<br>
+· 📁 Elección de carpeta de destino para el ejecutable.<br>
+· ⚙️ Compatibilidad con los modos de PyInstaller:<br>
+\t · --onefile: genera un único ejecutable.<br>
+\t · --onefolder: genera una carpeta con el ejecutable y dependencias.<br>
+· 🧩 Posibilidad de agregar bibliotecas ocultas (--hidden-import).<br>
+· 🧵 Ejecución del proceso en un hilo independiente (sin bloquear la interfaz).<br>
+· 📜 Monitoreo en tiempo real del progreso del proceso de compilación.<br>
+· 💬 Área de log en vivo para salida del proceso y errores.<br>
 
 --------------
 
