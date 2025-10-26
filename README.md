@@ -10,8 +10,8 @@ Incluye opciones de configuración, selección de bibliotecas ocultas, modo de e
 <li>📂 Permite seleccionar el archivo .py mediante un explorador de archivos.<br>
 <li>📁 Elección de carpeta de destino para el ejecutable.<br>
 <li>⚙️ Compatibilidad con los modos de PyInstaller:<br>
-&emsp;<li> --onefile: genera un único ejecutable.<br>
-&emsp;<li> --onefolder: genera una carpeta con el ejecutable y dependencias.<br>
+<li> &emsp; --onefile: genera un único ejecutable.<br>
+<li> &emsp; --onefolder: genera una carpeta con el ejecutable y dependencias.<br>
 <li>🧩 Posibilidad de agregar bibliotecas ocultas (--hidden-import).<br>
 <li>🧵 Ejecución del proceso en un hilo independiente (sin bloquear la interfaz).<br>
 <li>📜 Monitoreo en tiempo real del progreso del proceso de compilación.<br>
